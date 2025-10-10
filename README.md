@@ -1,7 +1,7 @@
 # Malicious Email Detection via Browser-Based Extension
 
 ### Team Members  
-**Vy Le, Alex Koehler, Feng-Jen Hsieh, Yuandi Tang**
+**Alex Koehler, Feng-Jen Hsieh, Yuandi Tang, Vy Le**
 
 ---
 
